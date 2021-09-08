@@ -1196,3 +1196,4 @@ posinp:
   - Na: [-11.412, 7.683, 3.511]
     frag: [' NA', '2']
   units: angstroem
+psppar.Na: psppar.Na
