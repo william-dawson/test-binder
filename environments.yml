@@ -1,0 +1,7 @@
+name: bigdft
+channels:
+  - conda-forge
+dependencies:
+  - scipy
+  - numpy
+  - pyyaml
