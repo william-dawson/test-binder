@@ -1,7 +1,8 @@
-name: bigdft
+name: base
 channels:
   - conda-forge
 dependencies:
   - scipy
   - numpy
   - pyyaml
+  - matplotlib
